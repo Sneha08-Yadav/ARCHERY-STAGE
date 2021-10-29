@@ -1,1 +1,1 @@
-# ARCHERY-STAGE
+# Project Template 26
